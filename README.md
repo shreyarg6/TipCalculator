@@ -1,3 +1,3 @@
 # TipCalculator
 
-Using this you can calculate the tip fo the next outing!
+Using this simple code you can calculate the tip for your next outing!
